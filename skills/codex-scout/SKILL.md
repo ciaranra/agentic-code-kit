@@ -1,0 +1,11 @@
+---
+name: codex-scout
+description: Compatibility entry point for explicitly using the Codex CLI for reconnaissance. Uses the shared scout workflow.
+---
+
+# codex-scout
+
+Follow [scout](../scout/SKILL.md), selecting the Codex CLI as the execution backend.
+Read its [adapter](../../adapters/codex/README.md) before dispatch. Preserve the user's
+scope, provider authorization, and model choices. This alias does not make a Codex reviewer
+independent of a Codex author; report the actual model and context independence.

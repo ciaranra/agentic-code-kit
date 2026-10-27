@@ -1,0 +1,6 @@
+{
+  "qa-verifier": {"tools": "Bash, Read, Grep, Glob"},
+  "grug-scout": {"tools": "Read, Grep, Glob"},
+  "tiger-grug": {"tools": "Read, Grep, Glob"},
+  "ponytail": {}
+}
